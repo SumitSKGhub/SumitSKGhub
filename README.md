@@ -3,7 +3,7 @@ I'm Sumit Kamble
 
 About me:
     - 🌱 I’m currently pursuing Master of Computer Applications
-    - I'm on my journey of Mobile Application Development
+    and I'm lookinh to build a career in Mobile Application Development
 - 📫 How to reach me:
     1) email: sumitkamble2@outlook.com
     2) linkedin: www.linkedin.com/in/sumit-kamble-236528310
